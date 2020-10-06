@@ -1,9 +1,11 @@
 ---
 title: "IIIF Museums Community Group"
-layout: spec
+layout: default
 tags: []
-cssversion: 2
+
 ---
+
+{% include next_call.html group="IIIF Museum Interest Group Call" %}
 
 ## About
 

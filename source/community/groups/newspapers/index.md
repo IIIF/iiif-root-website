@@ -1,9 +1,12 @@
 ---
 title: "IIIF Newspapers Community Group"
-layout: spec
+layout: default
 tags: []
-cssversion: 2
+
 ---
+
+
+{% include next_call.html group="Newspapers" %}
 
 ## About
 

@@ -1,8 +1,8 @@
 ---
 title: "Text Granularity Technical Specification Group"
-layout: spec
+layout: default
 tags: [text granularity]
-cssversion: 2
+
 ---
 ## About
 

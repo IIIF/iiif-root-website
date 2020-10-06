@@ -1,9 +1,11 @@
 ---
 title: "IIIF A/V Technical Specification Group"
-layout: spec
+layout: default
 tags: []
-cssversion: 2
+
 ---
+
+{% include next_call.html group="IIIF A/V Call" %}
 
 ## About
 

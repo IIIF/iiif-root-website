@@ -1,8 +1,8 @@
 ---
 title: "Open Calls for Proposals"
-layout: spec
+layout: default
 tags: []
-cssversion: 2
+
 ---
 
 ## Call for Implementations

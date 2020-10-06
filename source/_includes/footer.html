@@ -1,10 +1,34 @@
-<div class="footer-container">
-  <footer class="wrapper">
-<ul>
-<li>Feedback: <a href="mailto:{{ site.data.organization.email }}">{{ site.data.organization.email }}</a></li>
-<li>Get involved: <a href="{{ site.url }}{{ site.baseurl }}/community/#how-to-get-involved">Explore the IIIF Community</a>
-</li>
-<li>Support IIIF: <a href="{{ site.url }}{{ site.baseurl }}/community/consortium/join/">Join the IIIF Consortium</a></li>
-</ul>
-  </footer>
-</div>
+<footer class="site-footer h-card">
+  <data class="u-url" href="{{ "/" | relative_url }}"></data>
+
+  <div class="wrapper">
+
+    <h2 class="footer-heading">{{ site.title | escape }}</h2>
+
+    <div class="footer-col-wrapper">
+      <div class="footer-col footer-col-1">
+        <ul class="contact-list">
+          <li class="p-name">
+            {%- if site.author -%}
+              {{ site.author | escape }}
+            {%- else -%}
+              {{ site.title | escape }}
+            {%- endif -%}
+            </li>
+            {%- if site.email -%}
+            <li><a class="u-email" href="mailto:{{ site.email }}">{{ site.email }}</a></li>
+            {%- endif -%}
+        </ul>
+      </div>
+
+      <div class="footer-col footer-col-2">
+        {%- include social.html -%}
+      </div>
+
+      <div class="footer-col footer-col-3">
+        <p>{{- site.description | escape -}}</p>
+      </div>
+    </div>
+
+  </div>
+</footer>
