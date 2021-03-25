@@ -1,8 +1,7 @@
 ---
 title: "IIIF Content Search TSG Charter"
-layout: spec
 tags: [content-search, tsg]
-cssversion: 2
+
 ---
 
 ## Introduction

@@ -1,9 +1,11 @@
 ---
 title: "IIIF Outreach Community Group"
-layout: spec
+layout: default
 tags: []
-cssversion: 2
+
 ---
+
+{% include next_call.html group="IIIF Outreach Community Group" %}
 
 ## About
 

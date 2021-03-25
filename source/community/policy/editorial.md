@@ -1,8 +1,8 @@
 ---
 title: "IIIF Editorial Process"
-layout: spec
+layout: default
 tags: []
-cssversion: 2
+
 ---
 
 This document describes the process by which specifications are designed and written within the IIIF community. The first part describes the expected participation of the community throughout the process, including gathering real world use cases, discussing solutions, implementing products, and the role of the [Technical Review Committee (TRC)][trc]. The second section describes the processes that the [editorial committee][editors] and the editors of a given specification use to ensure that the work is of the highest quality possible. The processes are intended to be as transparent and inclusive as possible, while still making progress quickly and responsibly.
@@ -131,5 +131,5 @@ The editorial committee _MUST_ provide a summary of all meetings, and _SHOULD_ p
 [design-patterns]: {{ page.webprefix }}/api/annex/notes/design_patterns/
 [image-30-changelog]: {{ page.webprefix }}/api/image/3.0/change-log/ "Changes for IIIF Image API Version 3.0"
 [tsg-framework]: {{ site.url }}{{ site.baseurl }}/community/groups/framework/#iiif-technical-specification-groups
-[trc-process]: {{ site.url }}{{ site.baseurl }}/community/trc/#process "TRC Process"
+[trc-process]: {{ site.url }}{{ site.baseurl }}/community/consortium/trc/#process "TRC Process"
 {% include acronyms.md %}

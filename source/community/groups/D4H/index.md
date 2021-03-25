@@ -1,9 +1,10 @@
 ---
 title: "IIIF Discovery for Humans Community Group"
-layout: spec
+layout: default
 tags: []
-cssversion: 2
+
 ---
+{% include next_call.html group="Discovery for Humans" %}
 
 ## About
 

@@ -1,8 +1,7 @@
 ---
 title: "IIIF A/V Technical Specification Group"
-layout: spec
 tags: []
-cssversion: 2
+
 ---
 
 ## About

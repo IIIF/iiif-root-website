@@ -1,8 +1,8 @@
 ---
 title: "IIIF Technical Review Committee"
-layout: spec
-tags: []
-cssversion: 2
+layout: default
+tags: [trc]
+
 ---
 
 As the IIIF community grows the process of developing and maintaining the specifications must take advantage of the wide range of community expertise and viewpoints. As highlighted in the IIIF code of conduct, the IIIF community is an inclusive, friendly and safe community, committed to openness and transparency in all interactions and activities.
@@ -72,7 +72,7 @@ Community members and consortium members representing IIIF-C Associate members w
 {% endfor %}
 </ul>
 
-### Consortium Full Members 
+### Consortium Full Members
 <ul>
 {% for i in site.data.trc_membership %}
     {% if i.role == 2 %}

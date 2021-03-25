@@ -1,8 +1,7 @@
 ---
 title: "IIIF Maps Technical Specification Group"
-layout: spec
 tags: []
-cssversion: 2
+
 ---
 
 ## About

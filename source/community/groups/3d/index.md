@@ -1,9 +1,11 @@
 ---
 title: "IIIF 3D Community Group"
-layout: spec
+layout: default
 tags: [3d]
-cssversion: 2
+
 ---
+
+{% include next_call.html group="IIIF 3D Community Group" %}
 
 ## About
 

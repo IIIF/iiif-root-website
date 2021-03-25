@@ -1,8 +1,8 @@
 ---
 title: "IIIF Editorial Committee"
-layout: spec
+layout: default
 tags: []
-cssversion: 2
+
 ---
 
 The IIIF Editorial Committee works in collaboration with [community groups][groups-framework] to propose new technical specifications and to update existing ones. The [Technical Review Committee (TRC)][trc] enables the timely review of these proposals.

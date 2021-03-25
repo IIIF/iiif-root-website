@@ -1,6 +1,5 @@
 ---
 title: "IIIF Authentication TSG Charter"
-layout: spec
 tags: [auth-tsg, tsg]
 cssversion: 2
 ---

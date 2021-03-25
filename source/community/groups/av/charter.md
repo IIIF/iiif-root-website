@@ -1,8 +1,7 @@
 ---
 title: "IIIF A/V Community Group Charter"
-layout: spec
 tags: []
-cssversion: 2
+
 ---
 
 _If you're looking for the original [A/V TSG Charter]({{ site.url }}{{ site.baseurl }}/community/groups/av/tsg-charter), that has been moved now that this group has transition into a Community Group_

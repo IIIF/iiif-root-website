@@ -1,8 +1,7 @@
 ---
 title: "IIIF Content Search Technical Specification Group"
-layout: spec
 tags: [content-search, tsg]
-cssversion: 2
+
 ---
 
 ## About

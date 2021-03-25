@@ -1,9 +1,11 @@
 ---
 title: "IIIF Manuscripts Community Group"
-layout: spec
+layout: default
 tags: []
-cssversion: 2
+
 ---
+
+{% include next_call.html group="IIIF Manuscripts Call" %}
 
 ## About
 

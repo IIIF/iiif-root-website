@@ -5,5 +5,5 @@ scripts/factory.pyc
 .ruby-version
 .DS_Store
 *.swp
-source/.jekyll-cache/
-source/.jekyll-metadata
+.jekyll-cache
+.jekyll-metadata

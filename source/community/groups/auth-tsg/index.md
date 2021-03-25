@@ -1,6 +1,5 @@
 ---
 title: "IIIF Authentication Technical Specification Group"
-layout: spec
 tags: []
 cssversion: 2
 ---

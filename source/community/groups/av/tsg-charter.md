@@ -1,8 +1,7 @@
 ---
 title: "IIIF A/V Technical Specification Group Charter"
-layout: spec
 tags: []
-cssversion: 2
+
 ---
 
 

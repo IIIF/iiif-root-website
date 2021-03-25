@@ -1,9 +1,11 @@
 ---
 title: "IIIF Maps Community Group"
-layout: spec
+layout: default
 tags: []
-cssversion: 2
+
 ---
+
+{% include next_call.html group="IIIF Maps" %}
 
 ## About
 
